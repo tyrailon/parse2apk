@@ -1,0 +1,8 @@
+{
+    "telegram_bot_api_key": "5884657861:AAG3XQApsUS4ViELJJZ2z6AJ2roapnyKvnY",
+    "telegram_id_for_send_data": "778261480",
+    "is_parse_1xstavka": true,
+    "is_parse_24score_pro": true,
+    "is_parse_flashscorekz": true,
+    "sleep_time_seconds": 60
+}
